@@ -8,8 +8,6 @@
 
 ---
 
----
-
 **Ethereum Wallet Address:**
 
 `0x4e40b203D98c5C46D89983dbDc80f51b18E81bee`
