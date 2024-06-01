@@ -35,11 +35,15 @@
 
 ### 💰 Support Me
 
-If you like my work and want to support me, consider donating Ethereum. Click the button below to copy my wallet address:
+If you like my work and want to support me, consider donating Ethereum. 
 
-[![Copy Ethereum Address](https://img.shields.io/badge/Ethereum-Copy%20Address-brightgreen)](javascript:void(0);)
+**Ethereum Wallet Address:**
 
-Ethereum Wallet Address: `0x4e40b203D98c5C46D89983dbDc80f51b18E81bee`
+`0x4e40b203D98c5C46D89983dbDc80f51b18E81bee`
+
+To copy the address, click the link below:
+
+[Copy Address](#copy-ethereum-address)
 
 ---
 
