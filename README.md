@@ -37,19 +37,7 @@
 
 If you like my work and want to support me, consider donating Ethereum. Click the button below to copy my wallet address:
 
-<button onclick="copyToClipboard()">Copy Ethereum Address</button>
-
-<script>
-function copyToClipboard() {
-  const el = document.createElement('textarea');
-  el.value = '0x4e40b203D98c5C46D89983dbDc80f51b18E81bee';
-  document.body.appendChild(el);
-  el.select();
-  document.execCommand('copy');
-  document.body.removeChild(el);
-  alert('Ethereum address copied to clipboard!');
-}
-</script>
+[![Copy Ethereum Address](https://img.shields.io/badge/Ethereum-Copy%20Address-brightgreen)](javascript:void(0);)
 
 Ethereum Wallet Address: `0x4e40b203D98c5C46D89983dbDc80f51b18E81bee`
 
