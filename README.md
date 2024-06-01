@@ -1,7 +1,2 @@
-# 💫 About Me
-
-🔭 **AI Scientist & Data Scientist**
-
-👨‍🎓 **Study Machine Learning**
-
-🎨 **In my free time I create AI models**
+# 💫 About Me:
+🔭 AI Scientist & Data Scientist<br>👨‍🎓 Study Machine Learning<br>🎨 In my free time I create AI models
